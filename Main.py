@@ -1,2 +1,3 @@
 def photos():
-    
+  photoArray = []
+  
