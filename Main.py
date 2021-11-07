@@ -1,7 +1,7 @@
 
 def photos():
   photoArray = ["AligatorLoki.jpg","BaldNonce.jpg", "BorisJohnson.jpeg", "Dadosaur.png",  "DannyDorito.jpg", "Doll.jpg", "Drip_Goku.jpg", "freecuthbert.jpg", "Halo3Rat.jpg", "hilda.jpeg", "IceAgeBaby.jpg", "imthetrashman.png", "johnxina.jpg", "keanu.jpg", "KevinMug.jpg", "KrisJongUn.png", "ladydimitrescu.png", "lobsterwoman.jpg"]
-
+  photosArray2 = ["PsychicFriendFredbear.jpg" , "RapperMario.jpg" , "SlavCat.jpg" , "SquirtGunPriest.jpg" , "StudyGirl.jpg" , "the_wock.jpg" , "wurmple.png"]
 
 # import tkinter as tk
 import tkinter as tk
