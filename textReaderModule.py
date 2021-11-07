@@ -1,12 +1,7 @@
 #!
-from os import listdir
-from os.path import isfile, join
-def readFile(fileName):
-    with open (fileName) as f:
-        lines = f.readlines
-        return (f)
 
-def readDer(PathStart):
-    listFiles = [f for f in listdir(PathStart) if isfile (join(mypath, f))]
-
-def 
+with open ("6K adverbs.txt", "r") as adverbs:
+    adverbList = adverbs.readlines()
+adverbs.close()
+for adverbList in adverbList:
+    print (adverbList)
