@@ -18,4 +18,5 @@ with open ("91K nouns.txt", "r") as nouns:
     nounsList = nouns.readlines()
 nouns.close()
 
-
+print ("{} {} {} {} {}".format("PlaceHolder", verbsList[random.randint(0,len(verbsList))], nounsList[random.randint(0,len(nounsList))],\
+    adjectiveList[random.randint(0,len(adjectiveList))], adverbList[random.randint(0,len(adverbList))]))
