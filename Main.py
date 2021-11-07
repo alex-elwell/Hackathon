@@ -77,3 +77,6 @@ l.place(relx= 0.5, rely= 0.7, anchor=CENTER)
 l.pack()
 
 root.mainloop()
+
+
+# it was good working with you both :) even if we spent half the time messing with git lol
