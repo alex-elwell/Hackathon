@@ -78,5 +78,4 @@ l.pack()
 
 root.mainloop()
 
-
-# it was good working with you both :) even if we spent half the time messing with git lol
+# Final commit 
